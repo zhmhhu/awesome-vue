@@ -345,7 +345,7 @@
   - [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
   - [Feature Requests (Laravel + Vue Combo)](https://github.com/haydenbbickerton/feature-requests-app) by [haydenbbickerton](https://github.com/haydenbbickerton)
   - [Vue Cookbook (Vue1.0 + express)](https://github.com/yjj5855/node-vue-server-webpack) by [@yjj5855](https://github.com/yjj5855): 首屏渲染的演示服务
-  - [Strong Together](https://github.com/websemantics/strong-together) - A starter project to build single page Vue.js apps as stand-alone or for Laravel / Laravel Spark projects, based on Browserify and Semantic-ui) by [WebSemantics](https://github.com/websemantics)
+  - [Strong Together](https://github.com/websemantics/strong-together) —— 构建单页应用的启动项目，此项目基于基于Browserify和Semantic-ui，可以用于单机版或Laravel / Laravel Spark 项目，作者是 [WebSemantics](https://github.com/websemantics) 。
   - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe](https://github.com/sjerrys/vuetest)
   - [**vue-shopping**](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18)
   - [**Vue-cnodejs,060**](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
@@ -377,23 +377,33 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**vuefire-quickstart**](https://github.com/sejr/vuefire-quickstart) - Documented Firebase integration w/ webpack and eslint, by [@sejr](https://github.com/sejr).
   - [**hello-vue-django** Vue.js and Django integration starter project with hot code reload](https://github.com/rokups/hello-vue-django)
   - [**Real Time Social News App**](https://github.com/Angarsk8/loopa-news) developed with [**Phoenix**](http://phoenixframework.org), **Vue**, **Vue Router** and **Vuex** ([_**demo**_](https://loopa-news.herokuapp.com)) by [@Angarsk8](https://github.com/Angarsk8)
-  - [**vue-calculator**](https://github.com/CaiYiLiang/simply-calculator-vuejs) a simply calculator built with Vue 2.0, vue-cli(webpack-simple). by [CaiYiLiang](https://github.com/CaiYiLiang)
-  - [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) A simple wikipedia-viewer page built with vue2.x ,vue-router,vue-cli(webpack-simple) and ajax(jsonp). by [CaiYiLiang](https://github.com/CaiYiLiang)
-  - [**vue2.x-douban**](https://github.com/superman66/vue2.x-douban) A simple of douban movie build with vue2.x,vue-router and axios(豆瓣电影). by [Superman](https://github.com/superman66)
-  - [**vue-laravel-example**](https://github.com/jcc/vue-laravel-example) Vue - Laravel - Example is a simple example to set Vue with Laravel. by [Jiajian Chan](https://github.com/jcc)
-  - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) A demo app integrating VueJS with [**Zurb Foundation**](https://github.com/zurb/foundation-sites), built using the webpack vue-cli template
-  - [aspnetcore-Vue-starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) A VueJS 2 starter template as part of an asp.net MVC dotnetcore project. This template includes the VueJS client app and a backend API controller.
-  - [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) A Reddit SPA [_**demo**_](https://yujiahaol68.github.io/reddit-app/) built with **Vue 2.X** , **Vue Router 2** , **Vuex** and **axios**. Using Muse-UI and vue-cli webpack template by [@yujiahaol68](https://github.com/yujiahaol68)
-  - [**vue-music-qq**](https://github.com/pluto1114/vue-music-qq) A qq-music project is based on vue-cli. The pages are simple and smooth
-  - [NavigationTab with Vue-Redux and Plain VueJSX](https://github.com/ShuvoHabib/Vue-JSX-and-Vue-Redux-Navigation-Tab)  Navigation Tab with both plain Vue JSX and Vue + Redux Binding
-  - [Veggie Map](https://veggiemap.herokuapp.com/) An interactive demo using Vuejs + Vue router + Leaflet and Firebase
-  - [vuejs-d3](https://github.com/johnnynotsolucky/samples/tree/master/vuejs-d3) examples how to use d3 for visualisations.
-  - [vue-twitter-client](https://github.com/YuheiNakasaka/vue-twitter-client) A Twitter Client App build with Vue 2.X, Vuex, electron-vue and Electron
-  - [**Douban**](https://github.com/jeneser/douban) Awesome douban Example created with **Vue2.x** + **Vuex** + **Vue-router** + **vue-resource**. by [jeneser](https://github.com/jeneser)
-  - [Storyblok vuejs-boilerplate](https://github.com/storyblok/vuejs-boilerplate) - Integrates Storyblok's Component System, allows to create editable Websites.
-  - [Vuexpresso](https://github.com/Ethaan/vuexpresso) - A boilerplate using VueX, Vue-Router, Vue-Apollo, webpack, GraphQL, Apollo-client, express and mongo
-  - [Vue.js with Sails.js example project](https://github.com/ndabAP/vue-sails-example) - This project is for those who are new to single-page applications and want to learn through a real example.
+  - [**vue-calculator**](https://github.com/CaiYiLiang/simply-calculator-vuejs) 一个用Vue 2.0、vue-cli(webpack-simple) 构建的简单计算器。
+  作者是 [CaiYiLiang](https://github.com/CaiYiLiang)
+  - [**Wikipedia-viewer**](https://github.com/CaiYiLiang/vue-demos/tree/master/wikipediaViewer-vuejs) 
+  用vue2.x、vue-router、vue-cli（webpack-simple）和 ajax（jsonp）构建的一个简单的 wikipedia-viewer 页面。 作者是 [CaiYiLiang](https://github.com/CaiYiLiang)
+  - [**vue2.x-douban**](https://github.com/superman66/vue2.x-douban) 
+  用vue2.x、vue-router和axios构建一个简单的douban电影(豆瓣电影). 作者是 [Superman](https://github.com/superman66)
+  - [**vue-laravel-example**](https://github.com/jcc/vue-laravel-example) Vue - Laravel - Example 是一个用Laravel设置Vue的简单示例。作者是 [Jiajian Chan](https://github.com/jcc)
+  - [**vue-foundation**](https://github.com/hal0gen/vue-foundation) 
+  将 VueJS 与 [**Zurb Foundation**](https://github.com/zurb/foundation-sites)集成的演示应用程序，使用 vue-cli 模板构建。
+  - [aspnetcore-Vue-starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) 作为 asp.net MVC dotnetcore项目的一部分的VueJS2 的初学者模板。 该模板包含VueJS客户端应用程序和后端 API 控制器。
+  - [**vue-reddit-app**](https://github.com/yujiahaol68/reddit-app) 
+  使用Vue 2.X、Vue Router 2、Vuex和axios构建的Reddit SPA演示。 使用Muse-UI和vue-cli webpack模板，作者是 [@yujiahaol68](https://github.com/yujiahaol68)
+  - [**vue-music-qq**](https://github.com/pluto1114/vue-music-qq)
+  一个基于vue-cli的QQ音乐项目。页面简单而流畅
+  - [NavigationTab with Vue-Redux and Plain VueJSX](https://github.com/ShuvoHabib/Vue-JSX-and-Vue-Redux-Navigation-Tab) 使用简单的 Vue JSX 和 Vue + Binding 的导航选项卡
+  - [Veggie Map](https://veggiemap.herokuapp.com/) 一个使用Vuejs + Vue路由器+Leaflet和Firebase的交互式演示系统
+  - [vuejs-d3](https://github.com/johnnynotsolucky/samples/tree/master/vuejs-d3) 如何使用d3进行可视化的例子。
+  - [vue-twitter-client](https://github.com/YuheiNakasaka/vue-twitter-client)
+  使用Vue 2.X、Vuex、electron-vue和Electron构建的Twitter客户端应用程序 
+  - [**Douban**](https://github.com/jeneser/douban) 使用**Vue2.x** + **Vuex** + **Vue-router** + **vue-resource** 构建的强大的豆瓣示例。作者是 [jeneser](https://github.com/jeneser)
+  - [Storyblok vuejs-boilerplate](https://github.com/storyblok/vuejs-boilerplate) ——
+  集成Storyblok的组件系统，允许创建可编辑的网站。
+  - [Vuexpresso](https://github.com/Ethaan/vuexpresso) —— 使用VueX、Vue-Router、Vue-Apollo、webpack、GraphQL、Apollo-client、express和mongo的样板文件。
+  - [Vue.js with Sails.js example project](https://github.com/ndabAP/vue-sails-example) —— 
+  这个项目适用于那些刚接触单页应用程序并希望通过实例学习的人。
   - [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
+  使用Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(包管理器)的样板文件。
   - [vue-feathers-chat](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
   - [vue-xplan](https://github.com/JackGit/xplan/) A rotating earth demo page created with Vue and three.js
   - [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io
