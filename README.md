@@ -143,10 +143,10 @@
   - [预载入](#prerendering)
 
 
-# <span href="Resources">资源</span>
+# <a href="Resources"/>资源</a>
 
 
-### 官方资源<span href="Official Resources"></span>
+### <a href="Official Resources">官方资源</a>
 
 - [官方指南](http://vuejs.org/guide/)
 - [API 参考](http://vuejs.org/api/)
