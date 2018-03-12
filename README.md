@@ -143,10 +143,10 @@
   - [预载入](#prerendering)
 
 
-# <a href="#Resources"/>资源</a>
+# Resources
 
 
-### <a href="#Official Resources">官方资源</a>
+### Official Resources
 
 - [官方指南](http://vuejs.org/guide/)
 - [API 参考](http://vuejs.org/api/)
@@ -399,49 +399,59 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [**Douban**](https://github.com/jeneser/douban) 使用**Vue2.x** + **Vuex** + **Vue-router** + **vue-resource** 构建的强大的豆瓣示例。作者是 [jeneser](https://github.com/jeneser)
   - [Storyblok vuejs-boilerplate](https://github.com/storyblok/vuejs-boilerplate) ——
   集成Storyblok的组件系统，允许创建可编辑的网站。
-  - [Vuexpresso](https://github.com/Ethaan/vuexpresso) —— 使用VueX、Vue-Router、Vue-Apollo、webpack、GraphQL、Apollo-client、express和mongo的样板文件。
+  - [Vuexpresso](https://github.com/Ethaan/vuexpresso) ——使用VueX、Vue-Router、Vue-Apollo、webpack、GraphQL、Apollo-client、express和mongo的样板文件。
   - [Vue.js with Sails.js example project](https://github.com/ndabAP/vue-sails-example) —— 
   这个项目适用于那些刚接触单页应用程序并希望通过实例学习的人。
-  - [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
-  使用Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(包管理器)的样板文件。
-  - [vue-feathers-chat](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
-  - [vue-xplan](https://github.com/JackGit/xplan/) A rotating earth demo page created with Vue and three.js
-  - [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io
-  - [vue-tetris (Use Vue, Vuex, Immutable to code Tetris)](http://binaryify.github.io/vue-tetris/) by [@Binaryify](https://github.com/Binaryify): Use Vue, Vuex, Immutable to code Tetris.
-  - [route-planner-vue](https://kasheftin.github.io/route-planner-vue/) by [@Kasheftin](https://github.com/Kasheftin): The tool for planning routes with multiple sortable layers, draggable directions, markers and shapes on google map.
-  - [MyDiary-Vue](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) A diary application build with Vue 2.X which is also have contact and todolist function
+  - [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) —— 使用Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(包管理器)的样板文件。
+  - [vue-feathers-chat](https://github.com/ErickPetru/vue-feathers-chat) 
+  一个简单的即时聊天工具，前端使用 Vue，后端使用Feathers,但只使用了Socket.IO —— 用于通信的客户端。
+  - [vue-xplan](https://github.com/JackGit/xplan/) 使用 Vue 和 three.js 创建的一个旋转的地球演示页面
+  - [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) 使用 vue2.x、vuex2.x、vue-router2.x、vux2.x、socket.io创建的一个 socket 聊天室
+  - [vue-tetris (Use Vue, Vuex, Immutable to code Tetris)](http://binaryify.github.io/vue-tetris/) by [@Binaryify](https://github.com/Binaryify): 使用 Vue、Vuex、Immutable编写的俄罗斯方块程序
+  - [route-planner-vue](https://kasheftin.github.io/route-planner-vue/) by [@Kasheftin](https://github.com/Kasheftin): 在 google 地图上, 用于规划具有多个排序层、拖动方向、标记和形状的路由的工具。
+  - [MyDiary-Vue](https://github.com/ssshooter/MyDiary-Vue/blob/master/README.En.md) 使用 Vue 2.X 构建的一个日记应用，此应有也有通讯录和待办事项功能
   - [VueJS Example Projects](https://github.com/vue-project) on Github by [Ali GÖREN](https://aligoren.com)
-  - [todo-mvc-webpack](https://github.com/voluntadpear/todomvc-vue-webpack) by [voluntapear](https://github.com/voluntadpear) TodoMVC implementation on Vue 2 using the webpack-basic template with examples showing vuex, vue-router, central event bus and VueFire.
+  - [todo-mvc-webpack](https://github.com/voluntadpear/todomvc-vue-webpack) by [voluntapear](https://github.com/voluntadpear) 
+使用使用 webpack 基本模板在 Vue2 上实现了 TodoMVC，示例展示了vuex、vue-router、中央事件总线和 VueFire。
   - [Chess Storybook Example](https://github.com/gustaYo/vue-chess-storybook) with Vue 2.0 by [gustaYo](https://github.com/gustaYo)
-  - [Vue Weather Notifier](https://github.com/sdras/vue-weather-notifier) A small sample animation app with SVG and Vuex
-  - [Nuxt Type](https://github.com/sdras/nuxt-type) An example Vue project with Nuxt for routing/SSR to demo page transitions
-  - [VueBlog](https://github.com/wmui/vueblog) A blog system supporting service side rendering by [wmui](https://github.com/wmui)
-  - [Cinemateka](https://github.com/Piterden/cinemateka) - An example of SPA made with Vue v1 & Laravel 5. Film & events schedule. Russian comments.
-  - [vue-2.x-boilerplate](https://github.com/the6thm0nth/vue-2.x-boilerplate) - A simple and small starter kit for a Vue project Vuex + vue-router
-  - [vue-minesweeper](https://github.com/rhapsodyn/vue-minesweeper) - A deadly simple minesweeper game with vuejs by [rhapsodyn](https://github.com/rhapsodyn)
-  - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue by [OXOYO](https://github.com/OXOYO)
-  - [koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - A fleshed-out SPA using Koa 2.3 on the backend and Vue 2.4 on the frontend. Includes fully featured user-authentication components, CRUD actions for the user's notes, and Vuex store modules.
-  - [Vuejs Shopping Cart](https://github.com/ittus/vuejs-firebase-shopping-cart) - Shopping cart example using Vuejs and Firebase
+  - [Vue Weather Notifier](https://github.com/sdras/vue-weather-notifier) 使用 SVG 和 Vuex 的小示例动画应用程序
+  - [Nuxt Type](https://github.com/sdras/nuxt-type) 使用 Nuxt 项目的一个Vue 实例, 用于路由/SSR 到演示页的转换
+  - [VueBlog](https://github.com/wmui/vueblog) 支持服务端渲染的博客系统，作者是[wmui](https://github.com/wmui)
+  - [Cinemateka](https://github.com/Piterden/cinemateka) —— 
+  使用 Vue v1 & Laravel 5创建的单页应用的实例
+  。包括电影和日程活动安排、俄语评论。
+  - [vue-2.x-boilerplate](https://github.com/the6thm0nth/vue-2.x-boilerplate) —— 一个简单小巧的Vue项目启动工具，使用Vuex + vue-router。
+  - [vue-minesweeper](https://github.com/rhapsodyn/vue-minesweeper) —— 一个使用vuejs开发的非常简单的扫雷游戏，作者是[rhapsodyn](https://github.com/rhapsodyn)
+  - [X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) —— 使用 SVG 和 Vue 开发的流程图编辑工具，作者是 [OXOYO](https://github.com/OXOYO)
+  - [koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) —— 后端使用 Koa 2.3，前端使用 Vue 2.4 搭建的一个功能丰富的单页应用。包括功能齐全的用户身份验证组件、对用户备注的 CRUD 操作（是指对数据的增加、读取、更新和删除操作 —— 译者注）和 Vuex 存储模块。
+  - [Vuejs Shopping Cart](https://github.com/ittus/vuejs-firebase-shopping-cart) —— 使用 Vuejs 和 Firebase 的购物车示例
   - [PokedexVueJs](https://github.com/rchung95/PokedexVueJs) by @rchung95
-  - [vuefire-auth](https://github.com/aofdev/vuefire-auth) A Vuefire Vue2-Auth-Email Verification with Firebase
-  - [vuefire-realtimedatabase](https://github.com/aofdev/vuefire-realtimedatabase) A Vuefire Vue2-RealtimeDatabaseCRUD with Firebase
-  - [vuefire-storage](https://github.com/aofdev/vuefire-storage) A Vuefire Vue2-Storage with Firebase
+  - [vuefire-auth](https://github.com/aofdev/vuefire-auth) 
+  一个使用 Firebase 创建的 Vuefire Vue2-Auth-Email 验证程序。
+  - [vuefire-realtimedatabase](https://github.com/aofdev/vuefire-realtimedatabase) 使用 Firebase 创建的 Vuefire Vue2-Realtime 数据库 CRUD 应用。
+  - [vuefire-storage](https://github.com/aofdev/vuefire-storage) 一个使用 Firebase 创建的 Vuefire Vue2-Storage 
   - [Vue2-PWA-Blog](https://github.com/deepak-singh/vue-blog-pwa) by @deepak-singh
-  - [vue-firebase-auth-vuex](https://github.com/aofdev/vue-firebase-auth-vuex) A Vue2 Firebase Authentication with Vuex and support Progressive Web Apps
-  - [vue-chart-stater-kit](https://github.com/joshua1988/vue-chart-starter-kit) Quick starter using Vue Router, Vue Chart, Element-UI
-  - [vue2.0-demos](https://github.com/qianyinghuanmie/vue2.0-demos) using mint-ui, Element-UI,And have Some demos（select city and so on）
-  - [conway](https://github.com/edge/conway) Conway's Game of Life in Vue.
-  - [vuex-feature-scoped-structure](https://github.com/igeligel/vuex-feature-scoped-structure) An example application of the feature scoped vuex application structure
-  - [vuex-examples](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
-  - [vue-vuex-todomvc](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
-  - [vuejs-sqljs-boilerplate](https://github.com/skysign/public/tree/master/vue.js/boilerplate/vuejs-sqljs-boilerplate) - This is a boilerplate to use both Vue.js and sql.js together
-  - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) - The WebDesktop system based on Vue by [OXOYO](https://github.com/OXOYO)
-  - [vuejs-music-player](https://github.com/Jamaks/vuejs-music-player) - A Vue.js lite music player
-  - [Vue.js Best Practices Example Project](https://github.com/sarneeh/vuejs-example-stock-trader) - A best practices example project using Vue.js + Vue Router + Vuex + Vuelidate
-- [Vue.js [ONE] client](https://github.com/jasscia/one) - [ONE] client wirtten with Vue2.5
-- [Vue.js 2.5 with vue-cli v3 including authentication with auth0](https://github.com/DominikAngerer/auth0-vue) by Dominik Angerer, Storyblok
-- [Skeleton Vue+TypeScript](https://github.com/SierraSoftworks/vue-template) - TypeScript, VueJS, ElementUI, Vue Router, Vuex, Material Icons, BrowserSync, Dockerfile
-- [**PENV Starter**](https://github.com/jesalg/penv-starter) by [@jesalg](https://twitter.com/jesalg) - A basic example of how to use VueJS, Express and PostgreSQL in conjunction.
+  - [vue-firebase-auth-vuex](https://github.com/aofdev/vue-firebase-auth-vuex) 
+  一个使用 Vue2 和 Firebase 开发的用户认证 Web  应用程序，使用 Vuex 并且支持渐进式开发。
+  - [vue-chart-stater-kit](https://github.com/joshua1988/vue-chart-starter-kit)   使用Vue Router、Vue Chart、Element-UI快速开发
+  - [vue2.0-demos](https://github.com/qianyinghuanmie/vue2.0-demos) 使用mint-ui、Element-UI， 并有一些演示功能（例如选择城市等等）
+  - [conway](https://github.com/edge/conway) 使用 Vue 开发的康威生命游戏。
+  - [vuex-feature-scoped-structure](https://github.com/igeligel/vuex-feature-scoped-structure) 
+  审查 vuex 应用程序结构特性的一个例子
+  - [vuex-examples](https://github.com/ooade/vuex-examples) —— 
+  使用 Vuex 构建真实世界应用的简单示例
+  - [vue-vuex-todomvc](https://github.com/bahmutov/vue-vuex-todomvc) —— TodoMVC Vue.js 应用程序实例，使用 Vuex 存储状态，后端通过Rest提供服务，使用[Cypress.io](https://www.cypress.io/)进行全套的端到端测试。
+  - [vuejs-sqljs-boilerplate](https://github.com/skysign/public/tree/master/vue.js/boilerplate/vuejs-sqljs-boilerplate) ——
+  这是一个使用 Vue.js 和 sql.js 的样板程序。
+  - [X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue) —— 基于 Vue 的 web 桌面应用系统。作者是
+  [OXOYO](https://github.com/OXOYO)
+  - [vuejs-music-player](https://github.com/Jamaks/vuejs-music-player) —— 一个使用 Vue.js 开发的简单的音乐播放器。
+  - [Vue.js Best Practices Example Project](https://github.com/sarneeh/vuejs-example-stock-trader) —— 最佳实践示例项目一个使用Vue.js +Vue Router + Vuex + Vuelidate 的最佳实践示例项目。
+- [Vue.js [ONE] client](https://github.com/jasscia/one) —— 使用 Vue2.5 写的 [一个] 客户端。
+- [Vue.js 2.5 with vue-cli v3 including authentication with auth0](https://github.com/DominikAngerer/auth0-vue) 作者是 Dominik Angerer, Storyblok
+- [Skeleton Vue+TypeScript](https://github.com/SierraSoftworks/vue-template) —— TypeScript、VueJS、ElementUI、Vue Router、Vuex,Material Icons、BrowserSync、Dockerfile
+- [**PENV Starter**](https://github.com/jesalg/penv-starter) by [@jesalg](https://twitter.com/jesalg) ——
+一个关于如何在一起使用 VueJS、Express 和 PostgreSQL 的基本例子。 
 
 ### Books
 
