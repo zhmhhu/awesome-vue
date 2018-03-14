@@ -478,62 +478,78 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
 ### Open Source
 
- - [PageKit](https://github.com/pagekit/pagekit) - Modular and lightweight CMS built with Symfony components and Vue.js.
- - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
- - [Koel](https://github.com/phanan/koel) - A personal music streaming server that works.
- - [RSS Reader](https://github.com/mrgodhani/rss-reader) - Simple RSS Reader made using atom electron and vue.js.
+ - [PageKit](https://github.com/pagekit/pagekit) ——
+ 使用Symfony组件和Vue.js构建的模块化轻量级CMS。
+ - [npmcharts.com](https://github.com/cheapsteak/npmcharts.com) —— 对比npm包的下载趋势。
+ - [Koel](https://github.com/phanan/koel) -—— 一款可用的个人音乐流式传输服务器。
+ - [RSS Reader](https://github.com/mrgodhani/rss-reader) ——
+ 使用atom electron 和 vue.js 制作简单的 RSS 阅读器
  - [Gokotta](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
- - [CoPilot](https://github.com/misterGF/CoPilot) - An admin portal based on AdminLTE with vue.js integration.
- - [Retrospectify](https://github.com/pepf/retrospectify) - A simple tool for doing collaborative retrospectives in agile teams.
- - [jade-press](https://github.com/jade-press/jade-press) - Cms based on mongodb, nodejs, koa, vue and more.
- - [astralapp](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease.
- - [EME](https://github.com/egoist/eme) - An Elegant Markdown Editor.
- - [Github-explorer](https://github.com/SidKwok/github-explorer) - A spa which can help you check your github in a better way.
- - [Hotel](https://github.com/typicode/hotel) - Start your dev servers from your browser and get local domains in seconds.
- - [Surfbird](https://github.com/surfbirdapp/surfbird) - A Twitter client written with modern web technologies.
- - [Approach0](https://github.com/approach0/search-engine) - A math-aware search engine.
- - [Flox](https://github.com/devfake/flox) - Self Hosted Movie, Series and Anime Watch List.
- - [JavaScript Guessing Game](https://github.com/samiheikki/javascript-guessing-game) - A game for identifying JavaScript tools and libraries.
- - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) - A blog based on GitHub pages by Vue.js 2 + Webpack 2.
- - [Vuedo](https://github.com/Vuedo/vuedo) - Blog platform, built with Laravel and Vue.js.
- - [vue-music163](https://github.com/pluto1114/vue-music163) - A Vue.js project for music.
- - [Tomato5](https://github.com/zhangxin840/tomato5) - Real-time collaboration tool, it combines Pomodoro Technique with a team status share board.
- - [Web Learn](https://github.com/freearhey/web-learn) - A service which provides simple access to thousands of video tutorials on web developing and programming.
- - [ExcelJSON](https://github.com/palerdot/exceljson) - A tool to convert CSV, TSV to/from JSON.
- - [Materialize-blog](https://github.com/forehalo/materialize-blog) - A material blog built with Laravel5.3 and Vue2.x.
- - [VueCompomnentGenerator](https://github.com/ChangJoo-Park/vue-component-generator) - Generate vue single file component on browser.
- - [SDR News](https://github.com/super-dev/SDR-News) - News for web designers and developers aggregated from multiple sources (Reddit, Hacker News and Prominent Blogs).
- - [PJ Blog](https://github.com/jcc/blog) - Open source blog built with Laravel and Vue.js.
- - [Lulumi-browser](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
+ 使用 electron 和 vue.js 开发的个人音乐播放器
+ - [CoPilot](https://github.com/misterGF/CoPilot) —— 
+基于 AdminLTE 和 vue.js 全家桶开发的一个管理门户。
+ - [Retrospectify](https://github.com/pepf/retrospectify) —— 
+ 一款在敏捷团队中进行协作回顾的简单工具。
+ - [jade-press](https://github.com/jade-press/jade-press) ——
+  基于mongodb、nodejs、koa、vue等等开发的一个CMS(内容管理系统——译者注)
+ - [astralapp](https://github.com/astralapp/astral) ——
+ 轻松组织您的GitHub 加星项目。
+ - [EME](https://github.com/egoist/eme) —— 一款优雅的 Markdown 编辑器
+ - [Github-explorer](https://github.com/SidKwok/github-explorer) —— 一个能够帮助你使用一种更好的方式审核你的 github 项目的单页应用程序
+ - [Hotel](https://github.com/typicode/hotel) 
+—— 从浏览器启动你的开发服务器，并在几秒钟内获得本地域名
+ - [Surfbird](https://github.com/surfbirdapp/surfbird) —— 用现代 web 技术写的 Twitter 客户端
+ - [Approach0](https://github.com/approach0/search-engine) —— 一种数学意识的搜索引擎。
+ - [Flox](https://github.com/devfake/flox) —— 自托管的电影，电视剧和动漫列表。
+ - [JavaScript Guessing Game](https://github.com/samiheikki/javascript-guessing-game) —— 一款用于识别JavaScript工具和库的游戏。
+ - [vue-ghpages-blog](https://github.com/viko16/vue-ghpages-blog) —— 一个基于 Vue.js 2 + Webpack 2 的 GitHub 页面的博客。
+ - [Vuedo](https://github.com/Vuedo/vuedo) —— 使用 Laravel 和 Vue.js 构建的博客平台。
+ - [vue-music163](https://github.com/pluto1114/vue-music163) ——一个 Vue.js 音乐项目。
+ - [Tomato5](https://github.com/zhangxin840/tomato5) —— 实时协作工具，它将番茄工作法与团队状态共享白板相结合。
+ - [Web Learn](https://github.com/freearhey/web-learn) —— 一项服务，提供访问数以千计的网络开发和编程视频教程的简单方式。
+ - [ExcelJSON](https://github.com/palerdot/exceljson) —— 将CSV、TSV 转换成 JSON，或从JSON 转换成 CSV、TSV 的工具。
+ - [Materialize-blog](https://github.com/forehalo/materialize-blog) —— 一个使用Laravel5.3和Vue2.x构建的材料博客。
+ - [VueCompomnentGenerator](https://github.com/ChangJoo-Park/vue-component-generator) —— 在浏览器上生成vue单个文件组件。
+ - [SDR News](https://github.com/super-dev/SDR-News) ——
+ 从多个来源收集的网页设计者和开发者的新闻 (Reddit、 Hacker News and Prominent Blogs)。
+ 
+ - [PJ Blog](https://github.com/jcc/blog) —— 使用 Laravel 和 Vue.js 建立的开源博客。
+ - [Lulumi-browser](https://github.com/qazbnm456/lulumi-browser)
+ —— Lulumi 浏览器是一个使用 Vue.js 2 和 Electron 编写的轻量级浏览器。
  - [vue-wordpress-pwa](https://github.com/bstavroulakis/vue-wordpress-pwa)
- - [OpenAPI 3 viewer](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
-  - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
-  - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
-  - [Buka](https://github.com/oguzhaninan/Buka) - EBook Management
-  - [Docute](https://github.com/egoist/docute) - A framework for writing documentation without build process
-  - [pm86](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
-  - [vms](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
-  - [nativescript-vue](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
-  - [piper](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
-  - [mmf-blog-vue2](https://github.com/lincenying/mmf-blog-vue2) - A blog based on Vue2(Vue-router, Vuex) and Webpack2.
-  - [Media Manager](https://github.com/iutbay/mm) - Web File Manager.
-  - [dyu/bookmarks](https://github.com/dyu/bookmarks) - A self-contained, self-hosted bookmarking app powered by leveldb, built with Vue2.1.x.
-  - [JSON Schema Editor](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
-  - [npm-stats](https://github.com/apertureless/npm-stats) - npm package download statistics dashboard
-  - [vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) - a project that converts AdminLTE to work with Vuejs (v2.x).
-- [Dockeron](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
-- [Flamme](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
-- [Goldfish](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
-- [Adminify](https://github.com/wxs77577/adminify) - An Admin dashboard based on [Vuetify](https://vuetifyjs.com/), check the [Online Demo](http://adminify.genyii.com)
-- [promptie](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
-- [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
-- [Paper-Dashboard](https://github.com/cristijora/vue-paper-dashboard) -Creative Tim Paper Dashboard made for Vue
-- [AdminLTE-VueJS2](https://github.com/otezz/AdminLTE-VueJS2) - An open source project that implements  VueJS (v2.x) on AdminLTE.
-- [Material Dashboard](https://github.com/lucduong/vue-material-dashboard) - Creative Tim Material Dashboard made for Vue
-- [Explore-Github](https://github.com/mazipan/explore-github) - VueJS 2 Github Explorer Using API v3
-- [CoreUI](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template) - Open Source Admin Template powered by Vue.js
-- [ChuckNorris](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
-- [LeafPlayer](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
+ - [OpenAPI 3 viewer](https://github.com/koumoul-dev/openapi-viewer) —— 浏览和测试使用OpenAPI 3.0 规范描述的 REST API。
+  - [Stacer](https://github.com/oguzhaninan/Stacer) —— Linux系统优化器和监视器
+  - [Distrochooser.de](https://github.com/cmllr/distrochooser) —— 
+Linux 初学者的指导指南
+  - [Buka](https://github.com/oguzhaninan/Buka) —— 电子书管理
+  - [Docute](https://github.com/egoist/docute) ——
+  不使用构件过程编写文档的一个框架
+  - [pm86](https://github.com/ericjjj/pm86) —— 使用 Node.js 开发的生产过程管理应用程序网站。
+  - [vms](https://github.com/ericjjj/vms) —— 一个 Vue.js 2.0 管理系统
+  - [nativescript-vue](https://github.com/rigor789/nativescript-vue) —— 使用 Vue.js 实现的 NativeScript 渲染器。
+  - [piper](https://github.com/fireyy/piper) —— 一个基于 Vue 的支持拖放操作的移动网站。
+  - [mmf-blog-vue2](https://github.com/lincenying/mmf-blog-vue2) —— 基于 Vue2(Vue-router\ Vuex) 和 Webpack2 的博客。
+  - [Media Manager](https://github.com/iutbay/mm) —— web 文件管理器
+  - [dyu/bookmarks](https://github.com/dyu/bookmarks) —— 一个独立的、自托管的书签应用程序, 由 leveldb 使用Vue2.1. x构建。
+  - [JSON Schema Editor](https://github.com/tangram-js/json-schema-editor)—— JSON 格式的直观编辑器，使用 Vue.js 2 和 Firebase开发。
+  - [npm-stats](https://github.com/apertureless/npm-stats) —— npm 软件包下载统计表
+  - [vue2-admin-lte](https://github.com/devjin0617/vue2-admin-lte) ——
+  一个将 AdminLTE 转换为使用 Vuejs (v2. x) 实现的的项目。
+- [Dockeron](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.在台式机上使用Docker，基于 Electron + Vue.js 构建的项目。
+- [Flamme](https://github.com/alicin/flamme) —— 一个为教育目的而开发的开源的桌面客户端, 使用electron 和 Vue.js构建
+- [Goldfish](https://github.com/Caiyeon/goldfish) ——
+用 VueJS、Golang 和 Bulma CSS 构建的 HashiCorp Vault UI
+- [Adminify](https://github.com/wxs77577/adminify) —— 基于 [Vuetify](https://vuetifyjs.com/)的管理仪表盘, 参考[在线演示](http://adminify.genyii.com)
+- [promptie](https://github.com/alicin/promptie) ——
+使用Vue.js 编写的在 web 浏览器中创建类似接口一样的命令行的框架。
+- [Hare](https://github.com/clarkdo/hare) —— 基于Vue.js 2.x、Koa 2.x、Element-UI 和 Nuxt 的应用程序样板
+- [Paper-Dashboard](https://github.com/cristijora/vue-paper-dashboard) —— 使用 Vue 开发的富有创意的 Tim Paper 主页
+- [AdminLTE-VueJS2](https://github.com/otezz/AdminLTE-VueJS2) —— 一个在 AdminLTE 上实现 VueJS (v2) 的开源项目。
+- [Material Dashboard](https://github.com/lucduong/vue-material-dashboard) —— 使用 Vue 开发的富有创意 Tim Material 主页
+- [Explore-Github](https://github.com/mazipan/explore-github) —— 使用 API v3 开发的Vue-Github-Explorer
+- [CoreUI](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template) —— 使用 Vue.js 开发的开源管理模板。
+- [ChuckNorris](https://github.com/mazipan/chucknorris) —— 使用 VueJS + api.chucknorris.io 开发的Chuck Norris笑话生成器
+- [LeafPlayer](https://github.com/paulschwoerer/leafplayer) —— 一个简单、快速、私人托管的音乐流服务器。
 - [JSON Editor](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 - [Voten](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
 - [News Weaver](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
