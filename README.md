@@ -351,26 +351,26 @@
   - [**Vue-cnodejs,060**](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
   - [**vue-zhihu-daily**](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
   - [jwt-example](https://github.com/PetervMeijgaard/jwt-example) by [@petervmeijgaard](https://github.com/petervmeijgaard)
-  - [**VueChess**](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
+  - [**VueChess**](https://github.com/gustaYo/vue-chess) —— 多玩家在线的棋类游戏，作者是 [gustaYo](https://github.com/gustaYo)
   - [Ngexplorer-vuejs-client](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)
-  - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
+  - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) 作者是 [@pengfu](https://github.com/pengfu):使用 Vue、Webpack、Sass、ES6 实现的流行的 2048 游戏
   - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) by [BosNaufal](https://github.com/BosNaufal)
-  - [Tour of Heroes (Vue 2.0)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue](https://github.com/revue/revue) (redux bindings for Vue), [vue-router](https://github.com/vuejs/vue-router), [Airbnb eslint](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
-  - [vue-table-pagination](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic)
-  - [Feathers and Vue 2.0 Blog Admin Demo](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay)
-  - [vue-zhihudaily-2.0](https://github.com/cs1707/vue-zhihudaily-2.0) Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering. by [cs1707](https://github.com/cs1707)
-  - [vue-demo-todolist](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
+  - [Tour of Heroes (Vue 2.0)](https://github.com/aweber1/tour-of-heroes-vue2): Angular 2.0 Tour of Heroes演示程序的Vue 2.0端口。 亮点：ES6 / 7、渲染函数 、JSX、[revue](https://github.com/revue/revue)（Vue的redux绑定）、 [vue-router](https://github.com/vuejs/vue-router)、[Airbnb eslint](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base)、webpack。 作者是 [@aweber1](https://github.com/aweber1)
+  - [vue-table-pagination](https://github.com/echoVic/vue-table-pagination) 有分页功能的一张表格，作者是 [echovic](https://github.com/echovic)
+  - [Feathers and Vue 2.0 Blog Admin Demo](https://github.com/delay/feathers-vue-blog-admin-demo) 使用Vue 2.0 特性的演示程序。 它包括身份验证、vue-router、vue-infinite-loading和角色，作者是
+   [delay](https://github.com/delay)
+  - [vue-zhihudaily-2.0](https://github.com/cs1707/vue-zhihudaily-2.0) 使用Vue 2.0、vue-router和vuex，以及服务器端渲染构建而成的知乎日报演示程序。 由[cs1707](https://github.com/cs1707)提供
+  - [vue-demo-todolist](https://github.com/fishenal/Todos_Vuejs) 由 vue 2.0、vue-cli 构建的简单 vue2.0 演示程序。 由[fishenal](https://github.com/fishenal) 提供
   - [**vue-AdminLte**](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
   - [**Vue(2.0) + Node.js: A blog content manage system (CMS)**](https://github.com/ycwalker/CMS-of-Blog) by @ycwalker
   - [ngexplorer-quasar](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN) with [quasar framework](https://github.com/rstoenescu/quasar-framework) by [gustaYo](https://github.com/gustaYo)
-  - [zhihu-daily-vue](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
+  - [zhihu-daily-vue](https://github.com/moonou/zhihu-daily-vue) 基于 vue2.0 的知乎日报，作者是 [moonou](https://github.com/moonou)
   - [loopback-vue](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page分页功能,authenticate 权限控制,accesstoken机制,credentials,CI,docker  [qxl1231](https://github.com/qxl1231)
-  - [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
-  - [**easy-vue**](https://github.com/TIGERB/easy-vue) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0,
-vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
+  - [**vue-s3-dropzone**](https://github.com/kfei/vue-s3-dropzone) 可以将文件上传到 AWS S3 的虚拟服务器的Vue.js拖放组件
+  - [**easy-vue**](https://github.com/TIGERB/easy-vue) 使用vue， 通过 vue 2.0、vuex 2.0、vue-router 2.0、vue-infinite-scroll 2.0、vue-progressbar 2.0 实现简单的 web 程序的一个简单的例子，作者是 [TIGERB](https://github.com/tigerb)
   - [Vuex Events Messaging Demo](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
-  - [vue-memo](https://github.com/akifo/vue-memo) a simple demo build with Vue.js(>2.x.), vue-router(>2.x.), vuex(>2.x.), vuex-router-sync@next(>3.x.) and Firebase(>3.6.x) by [akifo](https://github.com/akifo)
-  - [Resume Vue](https://github.com/ChangJoo-Park/Resume-Vue) JSON based Resume based on Vue 2.0 by [ChangJoo Park](https://github.com/ChangJoo-Park/)
+  - [vue-memo](https://github.com/akifo/vue-memo)  基于 Vue.js(>2.x.)、 vue-router(>2.x.)、 vuex(>2.x.)、vuex-router-sync@next(>3.x.) 和 Firebase(>3.6.x) 实现的简单例子，作者是 [akifo](https://github.com/akifo)
+  - [Resume Vue](https://github.com/ChangJoo-Park/Resume-Vue) 基于 JSON 的 Vue 2.0 摘要，作者是 [ChangJoo Park](https://github.com/ChangJoo-Park/)
   - [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with [**Phoenix Framework**](http://phoenixframework.org), **Vue** and **Vue Router** ([_**demo**_](https://phoenix-vue-auth.herokuapp.com)) by [@Angarsk8](https://github.com/Angarsk8)
   - [Sample CRUD app with router in Vue 2.0](https://github.com/shershen08/vue.js-v2-crud-application) by [@shershen08](https://github.com/shershen08)
   - [ASP.NET Core Vue.js server-side rendering sample](https://github.com/mgyongyosi/VuejsSSRSample) by [@mgyongyosi](https://github.com/mgyongyosi)
@@ -447,11 +447,11 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   [OXOYO](https://github.com/OXOYO)
   - [vuejs-music-player](https://github.com/Jamaks/vuejs-music-player) —— 一个使用 Vue.js 开发的简单的音乐播放器。
   - [Vue.js Best Practices Example Project](https://github.com/sarneeh/vuejs-example-stock-trader) —— 最佳实践示例项目一个使用Vue.js +Vue Router + Vuex + Vuelidate 的最佳实践示例项目。
-- [Vue.js [ONE] client](https://github.com/jasscia/one) —— 使用 Vue2.5 写的 [一个] 客户端。
-- [Vue.js 2.5 with vue-cli v3 including authentication with auth0](https://github.com/DominikAngerer/auth0-vue) 作者是 Dominik Angerer, Storyblok
-- [Skeleton Vue+TypeScript](https://github.com/SierraSoftworks/vue-template) —— TypeScript、VueJS、ElementUI、Vue Router、Vuex,Material Icons、BrowserSync、Dockerfile
-- [**PENV Starter**](https://github.com/jesalg/penv-starter) by [@jesalg](https://twitter.com/jesalg) ——
-一个关于如何在一起使用 VueJS、Express 和 PostgreSQL 的基本例子。 
+  - [Vue.js [ONE] client](https://github.com/jasscia/one) —— 使用 Vue2.5 写的 [一个] 客户端。
+  - [Vue.js 2.5 with vue-cli v3 including authentication with auth0](https://github.com/DominikAngerer/auth0-vue) 作者是 Dominik Angerer, Storyblok
+  - [Skeleton Vue+TypeScript](https://github.com/SierraSoftworks/vue-template) —— TypeScript、VueJS、ElementUI、Vue Router、Vuex,Material Icons、BrowserSync、Dockerfile
+  - [**PENV Starter**](https://github.com/jesalg/penv-starter) by [@jesalg](https://twitter.com/jesalg) ——
+一个关于如何在一起使用 VueJS、Express 和 PostgreSQL 的基本例子。
 
 ### Books
 
@@ -550,21 +550,21 @@ Linux 初学者的指导指南
 - [CoreUI](https://github.com/mrholek/CoreUI-Free-Bootstrap-Admin-Template) —— 使用 Vue.js 开发的开源管理模板。
 - [ChuckNorris](https://github.com/mazipan/chucknorris) —— 使用 VueJS + api.chucknorris.io 开发的Chuck Norris笑话生成器
 - [LeafPlayer](https://github.com/paulschwoerer/leafplayer) —— 一个简单、快速、私人托管的音乐流服务器。
-- [JSON Editor](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
-- [Voten](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
-- [News Weaver](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
-- [Wake Up Billie Joe!](https://wakeupbilliejoe.com) - A web site countdown to October, based on Green Day's song Wake me up when September Ends. Created using Vue and Firebase.
-- [Astrum](https://github.com/NoDivide/astrum) - A lightweight pattern library designed to be included with any web project.
-- [vue2-pwa-vision](https://github.com/aofdev/vue-pwa-vision) - A Face Detection Google Cloud Vision with Vue2 + Vuetify + Progressive Web App
-- [vue2-pwa-rekognition](https://github.com/aofdev/vue-pwa-rekognition) - A Face Detection Amazon Rekognition with Vue2 + Vuetify + Progressive Web App
-- [AmmoBin.ca](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across Canada
-- [SPA-asp.net-api-vuejs-](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
-- [Book-Trading-Club](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
-- [vuejs-extension-pack vscode](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
-- [Wiki.js](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
-- [vue-pwa-speech](https://github.com/aofdev/vue-pwa-speech) - A Speech to text With Google Cloud Speech on Vue2 + Vuetify + Progressive Web App
-- [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
-- [My Animation List](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
+- [JSON Editor](https://github.com/tangram-js/json-editor) —— 使用 Vue2 开发的支持 schem 模式的JSON编辑器。
+- [Voten](https://github.com/voten-co/voten) —— 用Vue2和Laravel构建的类似Reddit的平台。
+- [News Weaver](https://github.com/Rud156/News-Weaver) —— 使用VueJS和VuetifyJS制作的基于Web的RSS阅读器/聚合器
+- [Wake Up Billie Joe!](https://wakeupbilliejoe.com) —— 倒计时到十月，当 9 月结束时，用绿色的一天的歌曲唤醒我的一个网站。 使用Vue和Firebase创建。
+- [Astrum](https://github.com/NoDivide/astrum) —— 设计用于任何Web项目的一个轻量级模式库。
+- [vue2-pwa-vision](https://github.com/aofdev/vue-pwa-vision) —— 可用于面部检测的谷歌云视觉，使用了Vue2 + Vuetify +渐进式Web应用程序
+- [vue2-pwa-rekognition](https://github.com/aofdev/vue-pwa-rekognition) —— 用于人脸检测的亚马逊Rekognition，使用了Vue2 + Vuetify +渐进式Web应用程序
+- [AmmoBin.ca](https://github.com/ammobinDOTca/ammobin-client) —— 加拿大网上弹药价格的meta搜索网站
+- [SPA-asp.net-api-vuejs-](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) —— 使用ASP .NET Webapi 2 和 SQL Server进行基本任务管理和消息传递的Vue.js单页应用程序
+- [Book-Trading-Club](https://github.com/mubaidr/Book-Trading-Club) —— 与您所在地区的其他读者进行交易或借阅书籍。 使用 nodejs 和vuejs2 构建。
+- [vuejs-extension-pack vscode](https://github.com/mubaidr/vuejs-extension-pack) —— 用于Vue.js开发的流行的VS Code扩展。
+- [Wiki.js](https://github.com/Requarks/wiki) —— 基于NodeJS、Git和Markdown构建的现代，轻量级和强大的wiki应用程序。
+- [vue-pwa-speech](https://github.com/aofdev/vue-pwa-speech) —— ，基于Vue2 + Vuetify +渐进式Web应用程序，使用Google云语音搭建的语音识别程序。
+- [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) —— 基于渐进式Web应用程序，使用 Google 云语音 + socket.io 开发的 实时语音识别功能，可执行流媒体语音识别。
+- [My Animation List](https://github.com/limichange/my-animation-list) —— 一个轻松获取CSS动画代码的工具。
 - [vue-input-streaming](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
 - [TidyTab](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
 - [peregrine-cms](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
