@@ -565,7 +565,7 @@ Linux 初学者的指导指南
 - [vue-pwa-speech](https://github.com/aofdev/vue-pwa-speech) —— ，基于Vue2 + Vuetify +渐进式Web应用程序，使用Google云语音搭建的语音识别程序。
 - [vue-speech-streaming](https://github.com/aofdev/vue-speech-streaming) —— 基于渐进式Web应用程序，使用 Google 云语音 + socket.io 开发的 实时语音识别功能，可执行流媒体语音识别。
 - [My Animation List](https://github.com/limichange/my-animation-list) —— 一个轻松获取CSS动画代码的工具。
-- [vue-input-streaming](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
+- [vue-input-streaming](https://github.com/aofdev/vue-input-streaming) ——  一个实时文本输入流和有推送功能的数据双向绑定广播
 - [TidyTab](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
 - [peregrine-cms](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
 - [concept-to-clinic](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
